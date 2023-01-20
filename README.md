@@ -1,4 +1,4 @@
-# **Engeto Python Academy**
+# **ENGETO Python Academy**
 ## **Project 3 – Web Scraper**
 Write a script that **downloads election results** of every municipality in chosen district **into csv file.**
 
